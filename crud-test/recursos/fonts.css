@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "SendCat";
+    src: url("Sendcat.ttf") format("truetype");
+}
+  
+.sendcat {
+    font-family: "SendCat", sans-serif;
+}
+
+.no-decoration {
+    text-decoration: none !important;
+}
